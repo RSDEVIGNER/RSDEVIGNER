@@ -1,5 +1,4 @@
 ### Yet another hobby coder in it's natural habitat
-#### ❤️ The minimalistic stuff
 ---
 ### 🛠 Tools
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
