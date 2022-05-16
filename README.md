@@ -1,3 +1,6 @@
+### Yet another hobby coder in it's natural habitat
+#### ❤️ The minimalistic life
+---
 ### 🛠 Tools
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
